@@ -1,0 +1,554 @@
+Verification Report
+===================
+
+Processing A.csv...
+  Total Entries: 155
+  Found: 132
+  Missing: 23
+  Missing Entries (Potential OCR/Format mismatch):
+    - Accademia degli Umoristi
+    - Accademia di Pittura e Scultura
+    - Accademia di Pittura e Scultura
+    - Acqua, Cristoforo dall'
+    - Aix-la-Chapelle, Peace of
+    - Albergati-Capacelli, Francesco
+    - Albrizzi, Almorò
+    - Aldobrandini, Cardinal Pietro (nephew of Pope Clement VIII)
+    - Aldobrandini, Cardinal Pietro (nephew of Pope Clement VIII)
+    - Alticchiero (Querini villa)
+    - Angeli, Filippo d' (Napoletano)
+    - Anti-papal satire in reign of Alexander VII
+    - Arcadia, Society of
+    - Armanni, G. A.
+    - 'Artistic temperament', development of concept
+    - Artist's position in society, Andrea Memmo on
+    - Augustus II of Poland (Frederick Augustus I, Elector of Saxony)
+    - Augustus II of Poland (Frederick Augustus I, Elector of Saxony)
+    - Augustus III of Poland (Frederick Augustus II, Elector of Saxony)
+    - Augustus III of Poland (Frederick Augustus II, Elector of Saxony)
+    - Augustus III of Poland (Frederick Augustus II, Elector of Saxony)
+    - Augustus III of Poland (Frederick Augustus II, Elector of Saxony)
+    - Augustus III of Poland (Frederick Augustus II, Elector of Saxony)
+
+Processing B.csv...
+  Total Entries: 324
+  Found: 262
+  Missing: 62
+  Missing Entries (Potential OCR/Format mismatch):
+    - Bagnara, Duchess of
+    - Bambini, Niccolò
+    - Bambini, Niccolò
+    - Bamboccianti
+    - Bamboccianti
+    - Bamboccianti
+    - Bamboccianti
+    - Bamboccianti
+    - Bamboccianti
+    - Barberini, Cardinal Antonio (brother to Urban VIII) (Cardinal di S. Onofrio)
+    - Barberini, Cardinal Antonio (nephew to Urban VIII)
+    - Barberini, Cardinal Antonio (nephew to Urban VIII)
+    - Barberini, Cardinal Antonio (nephew to Urban VIII)
+    - Barberini, Cardinal Antonio (nephew to Urban VIII)
+    - Barberini, Cardinal Antonio (nephew to Urban VIII)
+    - Barberini, Cardinal Antonio (nephew to Urban VIII)
+    - Barberini, Cardinal Antonio (nephew to Urban VIII)
+    - Barberini, Cardinal Francesco (nephew to Urban VIII)
+    - Barberini, Cardinal Francesco (nephew to Urban VIII)
+    - Barberini, Cardinal Francesco (nephew to Urban VIII)
+    - Barberini, Cardinal Francesco (nephew to Urban VIII)
+    - Barberini, Cardinal Francesco (nephew to Urban VIII)
+    - Barberini, Cardinal Francesco (nephew to Urban VIII)
+    - Barberini, Cardinal Francesco (nephew to Urban VIII)
+    - Barberini, Cardinal Francesco (nephew to Urban VIII)
+    - Barberini, Cardinal Francesco (nephew to Urban VIII)
+    - Barberini, Monsignor Francesco (uncle to Urban VIII)
+    - Barberini, Prince Maffeo (son of Taddeo Barberini)
+    - Baretti, Giuseppe
+    - Bartoli, Pietro Santo
+    - Bedford, John, 4th Duke of
+    - Bermis, Cardinal de
+    - Berrettoni, Niccolò
+    - Blunt, Sir Anthony
+    - Bonfiglioli collection
+    - Bossuet, Jacques-Bénigne
+    - Bouchardon, Edmé
+    - Boucher, François
+    - Boucher, François
+    - Boucher, François
+    - Bracciano, Duke of
+    - Bracciano, Paolo Giordano I Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Bracciano, Paolo Giordona II Orsini, Duke of
+    - Brienne, Lomenie de
+    - Brosses, Président Charles De
+    - Brühl, Count
+    - Brunelleschi, Filippo
+    - Brusasorci, Felice
+    - Brydges, Grey
+    - Buckingham, Charles Villiers, Duke of
+    - Buckingham, John Sheffield, Duke of
+
+Processing C.csv...
+  Total Entries: 432
+  Found: 377
+  Missing: 55
+  Missing Entries (Potential OCR/Format mismatch):
+    - Canini, Giovanni Angelo
+    - Caraboli, Giacomo
+    - Carlisle, Earl of
+    - Carriera, Rosalba
+    - Carriera, Rosalba
+    - Carriera, Rosalba
+    - Carriera, Rosalba
+    - Carriera, Rosalba
+    - Carriera, Rosalba
+    - Carriera, Rosalba
+    - Carriera, Rosalba
+    - Carriera, Rosalba
+    - Cassana, Niccolò
+    - Cassana, Niccolò
+    - Cassana, Niccolò
+    - Cassana, Niccolò
+    - Cassana, Niccolò
+    - Cassana, Niccolò
+    - Cassana, Niccolò
+    - Cassana, Niccolò
+    - Castro, First and Second Wars of
+    - Cavalieri di Santo Stefano
+    - Celle, Georg Wilhelm Duke of
+    - Cervelli, Federico
+    - Chandos, Grey Brydges, 5th Lord
+    - Chandos, Grey Brydges, 5th Lord
+    - Chandos, Grey Brydges, 5th Lord
+    - Chandos, James Brydges, 1st Duke of
+    - Chantelou, Paul-Fréart de
+    - Chardin, Jean Baptiste Siméon
+    - Chi soffre, speri
+    - Chigi, Agostino 'il Magnifico'
+    - Chigi, Fabio (Pope Alexander VII)
+    - Chigi, Fabio (Pope Alexander VII)
+    - Chigi, Fabio (Pope Alexander VII)
+    - Chigi, Fabio (Pope Alexander VII)
+    - Chigi, Fabio (Pope Alexander VII)
+    - Chigi, Fabio (Pope Alexander VII)
+    - Chigi, Cardinal Flavio (nephew to Pope Alexander VII)
+    - Chigi, Cardinal Flavio (nephew to Pope Alexander VII)
+    - Chigi, Cardinal Flavio (nephew to Pope Alexander VII)
+    - Chigi, Don Mario (brother to Pope Alexander VII)
+    - Ciampelli, Agostino
+    - Cignaroli, Giambettino
+    - Cignaroli, Giambettino
+    - Città di Castello, Matteo da
+    - Clemens August, Archbishop-Elector of Cologne
+    - Clement, Abbé
+    - Clement VIII, Pope
+    - Colonna, Marc'Antonio
+    - Correr, Teodoro
+    - Correr, Teodoro
+    - Correr, Teodoro
+    - Correr, Teodoro
+    - Crescenzi, Pietro Paolo
+
+Processing D.csv...
+  Total Entries: 67
+  Found: 60
+  Missing: 7
+  Missing Entries (Potential OCR/Format mismatch):
+    - Damini, Vincenzo
+    - Dati, Carlo
+    - Devonshire, Duke of
+    - Dolfin, Caterina
+    - Douglas, Hamilton, Marquis of
+    - Duquesnoy, François
+    - Dürer, Albrecht
+
+Processing E.csv...
+  Total Entries: 21
+  Found: 17
+  Missing: 4
+  Missing Entries (Potential OCR/Format mismatch):
+    - Enlightenment in Italy
+    - Enlightenment in Italy
+    - Enlightenment in Italy
+    - Estrées, Duc d'
+
+Processing F.csv...
+  Total Entries: 110
+  Found: 89
+  Missing: 21
+  Missing Entries (Potential OCR/Format mismatch):
+    - Farsetti, Filippo
+    - Farsetti, Filippo
+    - Farsetti, Filippo
+    - Farsetti, Filippo
+    - Farsetti, Filippo
+    - Farsetti, Filippo
+    - Farsetti, Filippo
+    - Farsetti, Filippo
+    - Farsetti, Filippo
+    - Farsetti, Filippo
+    - Farsetti, Filippo
+    - Félibien, André
+    - Feti, Domenico
+    - Fiori, Mario de' (Mario Nuzzi)
+    - Fragonard, Jean Honoré
+    - François I of France
+    - Fratta, D. M.
+    - Frederick III (Holy Roman Emperor)
+    - Frederick IV of Denmark
+    - Frederick Augustus II, Elector of Saxony
+    - French hostility to Italian art in the 17th century
+
+Processing G.csv...
+  Total Entries: 196
+  Found: 182
+  Missing: 14
+  Missing Entries (Potential OCR/Format mismatch):
+    - Gambarini, Giuseppe
+    - Gavasetti, Camillo
+    - Gerbault, Francesco
+    - Gherardi, Abate Pietro Ercole
+    - Gibbon, Edward
+    - Girardon, François
+    - Giustiniani family
+    - Giustiniani, Girolamo Ascanio
+    - Giustiniani, Abbate Michele
+    - Gloucester, William Henry, 1st Duke of
+    - Gori, A. F.
+    - Gori, A. F.
+    - Grill, Angelica
+    - Grimani, Cardinal
+
+Processing H.csv...
+  Total Entries: 25
+  Found: 21
+  Missing: 4
+  Missing Entries (Potential OCR/Format mismatch):
+    - Halifax, Earl of
+    - Hamen, Juan van der
+    - Huber, Jean
+    - Huber, Jean
+
+Processing I.csv...
+  Total Entries: 11
+  Found: 10
+  Missing: 1
+  Missing Entries (Potential OCR/Format mismatch):
+    - Imago primi saeculi
+
+Processing J，K.csv...
+  Total Entries: 27
+  Found: 26
+  Missing: 1
+  Missing Entries (Potential OCR/Format mismatch):
+    - James III of England
+
+Processing L.csv...
+  Total Entries: 121
+  Found: 107
+  Missing: 14
+  Missing Entries (Potential OCR/Format mismatch):
+    - La Vrillière, Louis Phélipeaux de
+    - Labia collection
+    - Laparelli, Annibale
+    - Le Nain, Louis
+    - Legros, Pierre
+    - Legros, Pierre
+    - Legros, Pierre
+    - Legros, Pierre
+    - Lorraine, Duke of
+    - Louis XIII
+    - Ludovisi, Ludovico (nephew to Pope Gregory XV)
+    - Ludovisi, Ludovico (nephew to Pope Gregory XV)
+    - Ludovisi, Ludovico (nephew to Pope Gregory XV)
+    - Ludovisi, Ludovico (nephew to Pope Gregory XV)
+
+Processing M.csv...
+  Total Entries: 262
+  Found: 226
+  Missing: 36
+  Missing Entries (Potential OCR/Format mismatch):
+    - Maffei, Francesco
+    - Maffei, Scipione
+    - Magalotti, Cardinal Lorenzo
+    - Mansart, François
+    - Mantua, Ferdinando, Duke of
+    - Mantua, Ferdinando Carlo, Duke of
+    - Mantua, Marquis of
+    - Marchesi, Raffaelo
+    - Marieschi, Michele
+    - Marlborough, Duchess of
+    - Masaniello, Revolt of
+    - Matina, L.
+    - Maupertuis, Pierre-Louis
+    - Mecklenburg, Christian Louis, Duke of
+    - Medici, Anna Maria Ludovica de' (wife of Johann Wilhelm, Elector Palatinate)
+    - Medici, Ferdinando II de', Grand Duke of Tuscany
+    - Medici, Isabella de' (Duchess of Bracciano)
+    - Melanconici, Niccolò
+    - Melanconici, Niccolò
+    - Melanconici, Niccolò
+    - Melanconici, Niccolò
+    - Melanconici, Niccolò
+    - Menzini, Benedetto
+    - Metastasio, Pietro
+    - Miel, Jan
+    - Mieris, Frans van
+    - Millet, Jean-François
+    - Modena, Duke of
+    - Molinari, Antonio
+    - 'Monsù Desiderio'
+    - Monnot, Pierre
+    - Monterey, Count of
+    - Monterey, Count of
+    - Monterey, Count of
+    - Monti, Francesco
+    - Mulier, Pietro
+
+Processing N.csv...
+  Total Entries: 46
+  Found: 32
+  Missing: 14
+  Missing Entries (Potential OCR/Format mismatch):
+    - Naudé, Gabriel
+    - Neapolitan painting, diffusion of
+    - Newcastle, William Cavendish, Duke of
+    - Newcastle, Thomas Pelham-Holles, Duke of
+    - Noailles, Maréchal de
+    - Nollet, Abbé
+    - Nomé, François ('Monsù Desiderio')
+    - Nomé, François ('Monsù Desiderio')
+    - Nomé, François ('Monsù Desiderio')
+    - Non, Dominique De (Dominique Vivant-Denon)
+    - Non, Dominique De (Dominique Vivant-Denon)
+    - Novelli, Pietro ('il Monrealese')
+    - Noyers, François Sublet de
+    - Nuzzi, Mario (Mario de' Fiori)
+
+Processing O.csv...
+  Total Entries: 37
+  Found: 22
+  Missing: 15
+  Missing Entries (Potential OCR/Format mismatch):
+    - Oliva, Gian Paolo
+    - Oliva, Gian Paolo
+    - Oliva, Gian Paolo
+    - Oliva, Gian Paolo
+    - Oliva, Gian Paolo
+    - Oliva, Gian Paolo
+    - Orleans, Philippe d', Regent
+    - Orleans, Philippe d', Regent
+    - Ottini, Andrea
+    - Ottoboni, Cardinal Pietro (nephew to Pope Alexander VIII)
+    - Ottoboni, Cardinal Pietro (nephew to Pope Alexander VIII)
+    - Ottoboni, Cardinal Pietro (nephew to Pope Alexander VIII)
+    - Ottoboni, Cardinal Pietro (nephew to Pope Alexander VIII)
+    - Ottoboni, Cardinal Pietro (nephew to Pope Alexander VIII)
+    - Oxford, Robert Harley, Earl of
+
+Processing P.csv...
+  Total Entries: 276
+  Found: 220
+  Missing: 56
+  Missing Entries (Potential OCR/Format mismatch):
+    - Painting, social significance of
+    - Pallavicini, Marchese Niccolò Maria
+    - Paltronieri, Pietro ('il Mirandolese')
+    - Pamfili, Prince Camillo (nephew to Pope Innocent X)
+    - Pamfili, Prince Camillo (nephew to Pope Innocent X)
+    - Pamfili, Prince Camillo (nephew to Pope Innocent X)
+    - Pamfili, Prince Camillo (nephew to Pope Innocent X)
+    - Pamfili, Gianbattista (Pope Innocent X)
+    - Pamfili, Gianbattista (Pope Innocent X)
+    - Pamfili, Gianbattista (Pope Innocent X)
+    - Pamfili, Gianbattista (Pope Innocent X)
+    - Panfi, Romolo
+    - Pareja, Juan de
+    - Parma, Dukes of
+    - Pasquali, Giambattista
+    - Pasquali, Giambattista
+    - Pasquali, Giambattista
+    - Pasquali, Giambattista
+    - Pasquali, Giambattista
+    - Pasquali, Giambattista
+    - Pasquali, Giambattista
+    - Pasquali, Giambattista
+    - Pasquali, Giambattista
+    - Passarowitz, Peace of
+    - Passeri, Giambattista
+    - Patriarch, Gaspare
+    - Patron-artist relation
+    - Peretti-Montalto, Cardinal Alessandro
+    - Peretti-Montalto, Cardinal Alessandro
+    - Perusini, Giovanni
+    - Peterborough, 3rd Earl of
+    - Philip II of Spain
+    - Pinacci, Giuseppe
+    - Pinelli, Maffeo
+    - Pisa, Treaty of
+    - Pisani, Almorò
+    - Platnerus
+    - Platnerus
+    - Podestà, Andrea
+    - Pöllnitz, Baron de
+    - Pomarance, Niccolò Circignani dalle
+    - Pöppelmann, Matthes Daniel
+    - Porta, Guglielmo della
+    - Porta, Guglielmo della
+    - Portland, Henry, first Duke of
+    - Portland, Henry, first Duke of
+    - Portland, Henry, first Duke of
+    - Portland, Henry, first Duke of
+    - Preti, Mattia
+    - Preti, Mattia
+    - Preti, Mattia
+    - Preti, Mattia
+    - Preti, Mattia
+    - Preti, Mattia
+    - Publishers in Venice
+    - Pufendorf, Samuel
+
+Processing Q-R.csv...
+  Total Entries: 240
+  Found: 211
+  Missing: 29
+  Missing Entries (Potential OCR/Format mismatch):
+    - Radicchio, Don Vincenzo
+    - Rastatt, Treaty of
+    - Remondini
+    - Remondini
+    - Rezzonico, Carlo (Pope Clement XIII)
+    - Ribera, Don Ferdinando Afan de
+    - Richard, Abbé
+    - Richeôme, Louis
+    - Richmond, Duke of
+    - Richmond, Duke of
+    - Richmond, Duke of
+    - Ridolfi, Carlo
+    - Roccatagliata, Giovanni Stefano
+    - Rosa, Paceco de
+    - Rospigliosi, Giulio (Pope Clement IX)
+    - Rospigliosi, Giulio (Pope Clement IX)
+    - Rospigliosi, Giulio (Pope Clement IX)
+    - Rospigliosi, Giulio (Pope Clement IX)
+    - Rossano, Princess of
+    - Rosso, Andrea del (grandfather of Andrea, Lorenzo, and Ottavio del Rosso)
+    - Rotari, Pietro
+    - Rovere, Vittoria della
+    - Ruffo, Don Antonio
+    - Ruffo, Don Antonio
+    - Ruffo, Don Antonio
+    - Ruffo, Don Antonio
+    - Ruffo, Don Antonio
+    - Ruffo, Don Antonio
+    - Ruffo, Don Antonio
+
+Processing S.csv...
+  Total Entries: 226
+  Found: 177
+  Missing: 49
+  Missing Entries (Potential OCR/Format mismatch):
+    - Sacchetti, Giovanni Francesco
+    - Sacchetti, Giulio
+    - Sagredo, Niccolò
+    - Sagredo, Stefano
+    - Saint-Non, Abbé de
+    - Saint-Non, Abbé de
+    - Saint-Sauveur, Monsieur de
+    - Salimbeni, Felice
+    - Sandrart, Joachim von
+    - Santi, Giovan Gioseffo
+    - Sassoferrato (Giovan Battista Salvi)
+    - Sassoferrato (Giovan Battista Salvi)
+    - Sassoferrato (Giovan Battista Salvi)
+    - Sassoferrato (Giovan Battista Salvi)
+    - Sassoferrato (Giovan Battista Salvi)
+    - Sassoferrato (Giovan Battista Salvi)
+    - Savoy, Adelaide Enrichetta of
+    - Savoy, Anne Marie of
+    - Savoy, Carlo Emmanuele III of
+    - Savoy, Duchess of
+    - Savoy, Prince Eugene of
+    - Savoy, Prince Eugene of
+    - Savoy, Prince Eugene of
+    - Savoy, Cardinal Maurizio of
+    - Savoy, Vittorio Amedeo II, Duke of
+    - Schönborn, Friedrich Karl
+    - Schönborn, Johann Philip Franz
+    - Schönborn, Lothar Franz von
+    - Schönborn family
+    - Servient, Abbé de
+    - Servizio particolare
+    - Shaftesbury, 1st Earl of
+    - Shaftesbury, 3rd Earl of
+    - Shaftesbury, 3rd Earl of
+    - Shaftesbury, 3rd Earl of
+    - Shaftesbury, 3rd Earl of
+    - Shaftesbury, 3rd Earl of
+    - Shaftesbury, 3rd Earl of
+    - Simonelli, Niccolò
+    - Skippe, John
+    - Skippon, Philip
+    - Soderini family
+    - Sole, Giovan Gioseffo dal
+    - Sole, Giovan Gioseffo dal
+    - Sole, Giovan Gioseffo dal
+    - Sole, Giovan Gioseffo dal
+    - Spanish Succession, War of
+    - 'Status-seeking' by artists in 17th-century Rome
+    - Swanevelt, Hermann
+
+Processing T.csv...
+  Total Entries: 128
+  Found: 119
+  Missing: 9
+  Missing Entries (Potential OCR/Format mismatch):
+    - Talbot, Bruno
+    - Tarso, Archbishop of
+    - Teti, Girolamo
+    - Théodon, Jean Baptiste
+    - Théodon, Jean Baptiste
+    - Titles granted to artists
+    - Torelli, Giacomo
+    - Troy, François de
+    - Tubeuf, Jacques
+
+Processing UVWXYZ.csv...
+  Total Entries: 226
+  Found: 203
+  Missing: 23
+  Missing Entries (Potential OCR/Format mismatch):
+    - Urban VIII
+    - Urbino, Francesco Maria della Rovere, Duke of
+    - Utrecht, Treaty of
+    - Vacchelli, Giuliano
+    - Valentin, art dealer
+    - Vandières, Marquis de (later Marquis de Marigny)
+    - Varotari, Alessandro ('il Padovanino')
+    - Vittrice, Alessandro
+    - Waldstein, Count of
+    - Wars of late 17th century, influence on art patronage
+    - Watson, F. J. B.
+    - Weenix, Jan
+    - Werff, Adrian van der
+    - Werff, Adrian van der
+    - White Hill, Battle of
+    - Würzburg Residenz
+    - Zatta, Antonio
+    - Zatta, Antonio
+    - Zatta, Antonio
+    - Zompini, Gaetano
+    - Zompini, Gaetano
+    - Zompini, Gaetano
+    - Zompini, Gaetano
+
