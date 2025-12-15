@@ -26,6 +26,9 @@ def create_simplified_dataset():
     new_df = df[required_cols].copy()
     new_df = new_df.rename(columns={'Entity_Name': 'Original Entity Name'})
     
+    # Add ID column at the beginning
+    new_df.insert(0, 'ID', range(1, len(new_df) + 1))
+    
     print(f"Created simplified dataset with {len(new_df)} rows.")
     print(f"Columns: {list(new_df.columns)}")
     
