@@ -1,0 +1,95 @@
+=== Deduplication Audit Report ===
+
+Total Rows: 3663
+Remaining Duplicates in 'Refined_Formal_Name': 0
+PASS: No duplicates found in 'Refined_Formal_Name'.
+
+Entries with merged variations (Original_Entry): 429 (11.7%)
+Entries with merged notes (Status/Notes): 384 (10.5%)
+
+=== Sample of Merged Rows ===
+
+Name: Abel-François Poisson, marquis de Marigny
+Original Entries: Abel-Fran?ois Poisson de Vandières | Marigny, Marquis de | Vandi豕res, Marquis de...
+Notes: [OCR Fix] "Vandi豕res" -> "Vandières"。Marigny侯爵。 | [OCR Fix] 修正 "?" 为 "ç"。庞巴杜夫人的弟弟，艺术总监。 | 蓬帕杜夫人的弟弟，法国皇家建筑总监。
+--------------------------------------------------
+
+Name: Abraham Brueghel
+Original Entries: Abraham Brueghel | Breughel, Abram
+Notes: [Disambiguation] 佛兰芒静物画家。 | [Validation] 佛兰芒画家。
+--------------------------------------------------
+
+Name: Abraham Nicolas Amelot de la Houssaye
+Original Entries: Abraham Nicolas Amelot de la Houssaye | Amelot de la Houssaye, A. N.
+Notes: [Reconstruction] 名字倒装复原。 | [Validation] 历史学家。
+--------------------------------------------------
+
+Name: Accademia Albrizziana
+Original Entries: Accademia Albrizziana | Accbremia Albrizziana
+Notes: [OCR Fix] 修正 "Accbremia" 为 "Accademia"。同 Row 23。 | [Validation] 威尼斯文学学会 (Albrizzi)。
+--------------------------------------------------
+
+Name: Accademia degli Umoristi
+Original Entries: Accademia degli Umoristi | Umoristi
+Notes: [Validation] 罗马文学学会。 | 罗马文学学院。
+--------------------------------------------------
+
+Name: Accademia dei Lincei
+Original Entries: Accademia dei Lincei | Lincean Academy
+Notes: [Category Fix] 原文误标为 Place。 | [Validation] 猞猁之眼国家科学院。
+--------------------------------------------------
+
+Name: Accademia dell'Arcadia
+Original Entries: Arcadia, Society of | Society of Arcadia
+Notes: [Category Fix] 阿卡迪亚学院。 | [Disambiguation] 阿卡迪亚学院。
+--------------------------------------------------
+
+Name: Adriaen van der Werff
+Original Entries: Adriaen van der Werff | Werff, Adrian van der
+Notes: [Validation] 荷兰画家。 | 荷兰画家。
+--------------------------------------------------
+
+Name: Agostino Chigi
+Original Entries: Agostino Andrea Chigi | Chigi, Agostino 'il Magnifico'
+Notes: [Disambiguation] 基吉家族成员。 | [Reconstruction] 文艺复兴银行家。
+--------------------------------------------------
+
+Name: Alessandro Farnese (Cardinal)
+Original Entries: Alessandro Farnese (cardinal) | Farnese, Cardinal Alessandro
+Notes: [Reconstruction] 可能是指教皇保罗三世之前的身份，或其孙子 Alessandro Farnese il Giovane。需结合语境。通常指 il Giovane (著名赞助人)。 | [Validation] 法尔内塞枢机。
+--------------------------------------------------
+
+=== Category Distribution ===
+Person: 2210
+Place: 568
+Work: 561
+Organization: 123
+Group: 58
+Concept: 50
+Person (Myth): 29
+Event: 14
+Place/Organization: 8
+Organization/Group: 6
+Work/Concept: 4
+Person/Work: 3
+Organization/Place: 3
+Person (Allegory): 2
+Group/Concept: 2
+Concept/Work: 2
+Place/Concept: 2
+Place/Person: 2
+Group/Work: 2
+Person (Type): 1
+Work/Place: 1
+Group/Place: 1
+Work/Person: 1
+Group/Title: 1
+Work/Event: 1
+Person (Myth/Hist): 1
+Person (Lit): 1
+Concept/Person (Allegory): 1
+Event/Concept: 1
+Event/Work: 1
+Person (Myth)/Work: 1
+Person/Group: 1
+Person (Religious): 1
