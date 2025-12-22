@@ -1,0 +1,105 @@
+原始 CSV 行号,原始名称 (CSV),英文正式名称 (Formal Name),QID/标识,实体类型,内容描述 (中/英),判断依据与参考数据库
+1,A Scene from the Aeneid,The Royal Hunt of Dido and Aeneas,Q131336040,作品,索利梅纳（Solimena）为马切拉塔 Buonaccorsi 宫创作的杰作。/ Solimena's canvas for Palazzo Buonaccorsi.,原书 p.231; RKD; IA
+2a,A.M. Zanetti ... with Marchese Gerini,Anton Maria Zanetti the Elder,Q2856488,人名,[拆分] 威尼斯鉴赏家，杰里尼侯爵收藏画册的学术与视觉顾问。/ Venetian connoisseur and advisor to Gerini.,原书 第14章; DBI; BM
+2b,A.M. Zanetti ... with Marchese Gerini,Marchese Andrea Gerini,BM: BIOG187405,人名,[拆分/纠错] 佛罗伦萨赞助人（1691-1766），出版了著名的地志与艺术册籍。/ Florentine patron and publisher.,用户指认; BM; DBI
+3,Abate Scarselli,Alessandro Scarselli,Q49788414,人名,[纠错] 博洛尼亚雕刻师及教士（Abate）。曾为杰里尼侯爵的画册供稿。/ Bolognese engraver and priest.,用户指认; Wikidata; IA
+4,Abigail giving Presents to David,Abigail bringing presents to David,Q21531776,作品,卢卡·焦尔达诺为里卡迪宫创作。体现了赞助人对后期巴洛克叙事的偏爱。/ By Luca Giordano for Palazzo Riccardi.,原书 第13章; RKD
+5,Accademia Albrizziana,Accademia Albrizziana,-,机构,18世纪威尼斯由阿尔布里齐家族支持的私人学院。/ Private 18th-c. academy supported by the Albrizzi.,原书 第14章; DBI
+6,Accademia dei Cacadubbi,Accademia dei Cacadubbi,-,机构,17世纪威尼斯的一所带有讽刺色彩的文学与艺术学院。/ A satirical literary/artistic academy in 17th-c. Venice.,原书 (Venice); Treccani
+7a,Accademia di San Luca / Académie Royale,Accademia di San Luca,Q338523,机构,"[拆分] 罗马圣路加学院，全书核心，17世纪艺术权力的中枢。/ The St. Luke Academy in Rome, epicenter of art power.",原书 第7章; Wikidata
+7b,Accademia di San Luca / Académie Royale,Académie Royale,Q214466,机构,[拆分] 巴黎皇家美术学院，代表了法式中央集权赞助模式。/ The French Royal Academy of Painting and Sculpture.,原书 第7章; Gallica
+8,Achille Bosisio,Achille Bosisio,-,人名,19世纪意大利艺术史研究者，哈斯克尔引用其文献考证作品流向。/ 19th-c. researcher cited for tracing provenance.,WorldCat; Google Books
+9,Aedes Barberina ad Quirinalem,Aedes Barberinae ad Quirinalem,IA: aedesbarberinae00teti,著作,[纠错] 吉罗拉莫·泰蒂 (Girolamo Teti) 1642年出版的描述巴贝里尼宫收藏的著作。/ Book by Girolamo Teti (1642).,用户指认; Internet Archive
+10,Albergo del Moretto,Albergo del Moretto,-,地点,"位于布雷西亚的历史旅店，18世纪大游学（Grand Tour）的重要落脚点。/ Historic inn in Brescia, used by Grand Tourists.",原书 第15章; IA
+11,Allegory of Clemency,Allegory of Clemency,Q3612440,作品,卡尔洛·马拉塔为教皇克雷芒十世（Altieri）创作的壁画。/ Fresco by Carlo Maratta for Pope Clement X.,原书 p.164; RKD
+12,Allegory of Coral fishing,The Discovery of Coral,-,作品,雅各布·朱基为美第奇家族创作的寓言画，反映了赞助人对海权与珍宝的兴趣。/ By Jacopo Zucchi for the Medici.,原书 第1章; RKD
+13,Allegory of the Education of the Crown Prince,Allegory of the Education of the Prince,-,作品,"雅各布·阿米戈尼创作的寓言，反映了18世纪王室教育与艺术赞助的结合。/ By Jacopo Amigoni, royal education theme.",原书 第14章; RKD
+14,Almorò Pisani,Almorò I Pisani,-,人名,威尼斯显赫赞助人，圣波罗宫拥有者。/ Venetian patron of the prominent Pisani family (San Polo).,原书 第14章; DBI
+15,Altar Paintings (San Canciano),Altar of St. Peter of Alcantara,-,作品,"位于威尼斯圣坎奇亚诺教堂。哈斯克尔以此探讨地方修会的赞助。/ Altarpiece in San Canciano, Venice, for local orders.",原书 第11章; RKD
+16,Altar of Friendship,Altar of Friendship,-,作品,"位于皮萨尼别墅园林中，由 Giovanni Marchiori 创作。/ Sculpture by G. Marchiori at Villa Pisani, Stra.",原书 (Pisani); Google
+17,Altar of Tranquility and Rural Life,Altar of Tranquility,-,作品,"皮萨尼别墅园林装饰，体现了对田园牧歌审美的赞助。/ Decorative work at Villa Pisani, reflecting pastoral tastes.",原书 (Pisani); Google
+18,Altar of Wealth and Apollo,Altar of Wealth,-,作品,寓言性装饰，通常出现在分析商业精英赞助动机的章节。/ Allegorical decoration regarding commercial elite patronage.,原书 第12章
+19,Altarpiece for Chiesa Nuova,Madonna della Vallicella,Q3906232,作品,"鲁本斯为罗马新教堂创作。哈斯克尔分析国际画家在罗马的竞争。/ Rubens' famous altarpiece for Chiesa Nuova, Rome.",原书 第3章; RKD
+20,Altarpiece for Santa Maria dei Cappuccini,St. Anthony of Padua,-,作品,古尔齐诺为卡普奇尼教堂创作。探讨方济各会赞助风格。/ Altarpiece by Guercino for the Capuchin church.,原书 第4章; RKD
+21,Altarpiece for St. Sebastian,Martyrdom of Saint Sebastian,-,作品,"泛指威尼斯圣塞巴斯蒂安教堂祭坛画（主画由 委罗内塞 创作）。/ Altarpiece in San Sebastiano, Venice, by Veronese.",原书 (Venice); RKD
+22,Altarpiece for the Augustinian Church,Saint Nicholas of Tolentino,-,作品,"哈斯克尔提及的奥斯定会赞助作品，多由 科尔托纳 创作。/ Specific Augustinian patronage work, likely by Cortona.",原书 第5章; RKD
+23,Altarpieces for the Royal Chapel,Royal Chapel Altarpieces,-,作品,"指代都灵或那不勒斯皇家礼拜堂的组画。/ Refers to works in Royal Chapels (e.g., Turin/Naples).",原书 (Court Patronage)
+24,Ambrogio Mazenta,Ambrogio Mazenta,Q3613801,人名,17世纪意大利建筑师与评论家，曾获得达芬奇手稿。/ 17th-c. architect and critic linked to Leonardo's MSS.,DBI; Wikidata
+25,Andromache weeping before Aeneas,Andromache weeping before Aeneas,-,作品,达尔·索莱（Dal Sole）为马切拉塔埃涅阿斯组画创作的单幅。/ By Gian Gioseffo Dal Sole for Palazzo Buonaccorsi.,RKD; Google
+26,Angels carrying the Instruments of the Passion,Angels with the Instruments of the Passion,Q64448557,作品,贝尔尼尼为圣安杰洛桥设计。教皇克雷芒九世的宏大赞助工程。/ Bernini's angels for Ponte Sant'Angelo.,原书 第6章; Wikidata
+27,Annamaria Gabrielli,Anna Maria Gabrielli,-,人名,17世纪罗马著名赞助人。/ Prominent 17th-c. Roman noblewoman and patron.,DBI; Google
+28,Annan Gallery,Annan Gallery,-,机构,19世纪格拉斯哥画廊，哈斯克尔研究意大利绘画流向英国时提及。/ 19th-c. Glasgow gallery cited for art movement.,BM (Galleries)
+29,Annibale Laparelli,Annibale Laparelli,-,人名,17世纪收藏代理人。哈斯克尔通过其账簿进行微观史学研究。/ 17th-c. agent; cited for his ledger evidence.,原书 第4章; DBI
+30,Anti-papal satire (Alexander VII),Anti-papal Satire,-,著作/概念,针对亚历山大七世的讽刺画，展现了官方赞助外的敌意倾向。/ Satirical prints against Pope Alexander VII.,原书 第6章; BNF
+31,Antichiesetta (San Marco),Antichiesetta of the Palazzo Ducale,-,地点,威尼斯总督府内，分析提齐安诺等人的非公共赞助。/ The vestibule in the Doge's Palace near San Marco.,原书 p.260
+32,Antichità di Palazzi,Le antichità di palazzi di Roma,-,著作,G.B. Falda 等人出版的罗马宫殿版画集。/ Print series on Roman palaces by Falda or Rossi.,原书 p.159; IA
+33,Anton Francesco Farsetti,Anton Francesco Farsetti,Q104191316,人名,威尼斯显赫赞助人，建立了著名的法尔塞蒂收藏。/ Prominent Venetian patron (1705-1791).,原书 第14章; DBI
+34,Antonino Maresca ... Serracapriola,Antonino Maresca,Q3619089,人名,那不勒斯外交官，在卡诺瓦早期赞助中扮演关键角色。/ Neapolitan diplomat and patron of Canova.,原书 p.372; DBI
+35,Antonio Maria Visconti,Antonio Maria Visconti,-,人名,17世纪贵族赞助人，哈斯克尔引用其档案揭示赞助社交网。/ 17th-c. noble patron; cited for patronage networks.,原书 p.124; DBI
+36,Antonio degli Effetti,Antonio degli Effetti,Q54148483,人名,17世纪罗马博学者，其《画室研究》是核心参考文献。/ 17th-c. Roman scholar; author of Studiolo di pittura.,原书 p.124; Google
+37,Apollo ... Frederick Barbarossa's bride,The Marriage of Frederick Barbarossa,Q606670,作品,提埃坡罗在维尔茨堡宫的壁画杰作。/ Fresco by Giambattista Tiepolo at Würzburg Residenz.,原书 第14章; RKD
+38,Apotheosis of the Pisani Family,Apotheosis of the Pisani Family,Q3620703,作品,"提埃坡罗为斯特拉皮萨尼别墅创作的巨幅天顶画。/ Ceiling fresco by Tiepolo at Villa Pisani, Stra.",原书 第14章; Wikidata
+39,Archbishop of Tarsus,Giulio Rospigliosi (Clement IX),Q155971,人名,即后来的教皇克雷芒九世，普桑和贝尔尼尼的关键赞助人。/ Later Pope Clement IX; key patron of Poussin and Bernini.,原书 第6章; DBI
+40,Archivio Comunale di Treviso,Archivio Comunale di Treviso,-,机构,哈斯克尔引用其文书考证威尼斯属地的订单细节。/ Cited for documenting art commissions in Treviso.,原书 参考文献
+41,Archivio Mediceo del Principato,Archivio Mediceo del Principato,Q3621586,机构,佛罗伦萨档案馆中美第奇家族的核心外交与艺术文书。/ The core Medici archive section in Florence.,原书 参考文献; Google
+42,Archivio del Governatorato di Roma,Archivio del Governatorato di Roma,-,机构,哈斯克尔研究罗马城市管理与赞助法规的重要来源。/ Archive regarding Roman urban governance and patronage.,原书 参考文献
+43,Archivio della Compagnia di Gesù,Archivium Romanum Societatis Iesu,Q3621557,机构,"耶酥会档案馆，研究耶稣教堂装饰的核心库。/ The Jesuit archives (ARSI), central to studying the Gesù.",原书 参考文献; Google
+44,Archivio di Stato di Venezia (Notarile),Archivio di Stato di Venezia,Q635502,机构,哈斯克尔考证威尼斯赞助人遗嘱与合同的核心地。/ Venice State Archives; cited for wills and contracts.,原书 参考文献
+45,Archivio di Stato di Venezia (Stampe),Archivio di Stato di Venezia (Stampe),-,机构,哈斯克尔研究威尼斯版画赞助与流向的特定档案。/ Section for prints in the Venice State Archives.,原书 参考文献
+46,Ariadne being woken by Love,Bacchus and Ariadne,-,作品,塞巴斯蒂亚诺·里奇为契斯里内利家族创作。/ Work by Sebastiano Ricci for the Chislinelli family.,原书 p.265; RKD
+47,Art patronage in 17th-century Munich,Art patronage in Munich,-,概念,探讨巴伐利亚宫廷对意大利艺术模式的借鉴与竞争。/ Discusses Munich court patronage vs. Italian models.,原书 结论
+48,Arte dei Salumieri,Arte dei Salumieri (Guild),-,机构,威尼斯猪肉商行会，展示了非精英阶层的赞助模式。/ Venetian butchers' guild; shows non-elite patronage.,原书 第11章; Google
+49,Artist's position in society (Concept),Artist's position in society,-,概念,全书探讨的核心主题：艺术家从技工向知识分子的转变。/ Core theme: transition from artisan to intellectual.,原书 序言/结论
+50,Arts Graphiques de la Cité (AGRACI),AGRACI,-,机构,哈斯克尔引用或使用的法国影像机构，用于巴洛克图像研究。/ French photo agency used for Baroque research.,BNF; Google
+51,Augustinian Monastery Altarpiece,Augustinian Monastery Altarpiece,-,作品,"泛指圣奥古斯丁教堂祭坛画，常涉及 兰弗兰科 创作。/ Refers to altarpieces for Augustinians (e.g., by Lanfranco).",原书 第5章
+52,Aurelio Rezzonico,Aurelio Rezzonico,-,人名,克雷芒十三世的兄弟，研究雷佐尼科家族在罗马的权势。/ Brother of Clement XIII; key to Rezzonico power.,原书 第14章; DBI
+53,Baglioni Collection,Baglioni Collection (Venice),-,机构,18世纪威尼斯著名私人收藏，体现了中产阶级的崛起。/ Famous 18th-c. Venetian private collection.,原书 p.336; Getty
+54,Barberini Chapel (Sant'Andrea),Cappella Barberini,-,地点,位于圣安德烈圣殿，乌尔班八世早期赞助的起点。/ Barberini chapel in Sant'Andrea della Valle.,原书 第6章; Google
+55,Barberini Library,Biblioteca Barberina,Q3633284,机构,17世纪罗马知识生活中心，文化赞助策源地。/ Epicenter of Roman intellectual and cultural patronage.,原书 第6章; Wikidata
+56,Basilica of Santa Sabina,Basilica of Santa Sabina,Q521190,地点,罗马巴西利卡，涉及巴洛克改造中的赞助政治。/ Roman Basilica; discussed regarding Baroque remodeling.,原书 p.124; Wikidata
+57,Batteria di Cucina,Still Life with Kitchen Utensils,-,作品,[定性] 多梅尼科·马焦托为杰里尼侯爵创作的写实静物。/ Still life by Domenico Maggiotto for Marchese Gerini.,原书 p.336; BM
+58,Beggar holding a Rosary,The Old Beggar with a Rosary,-,作品,"吉亚科莫·切鲁蒂作品，体现伦巴第写实主义赞助。/ By Giacomo Ceruti, reflects Lombard realism patronage.",原书 第11章; RKD
+59,Bell Towers for St. Peter's Basilica,Bernini's Campanili,Q64147326,作品,贝尔尼尼设计的被迫拆除的钟楼，分析赞助挫折。/ Bernini's dismantled bell towers for St. Peter's.,原书 第6章; Wikidata
+60,Bergamasque Community,Bergamasque Community in Venice,-,群体,威尼斯境内的贝尔加莫社群，哈斯克尔研究其行会赞助。/ The Bergamasque guild and its patronage in Venice.,原书 第11章
+61,Bibliothèque de Montpellier,Bibliothèque de Montpellier,Q3238692,机构,"哈斯克尔在考证法籍赞助人及其收藏史时引用的资源库。/ Library in Montpellier, cited for provenance studies.",Gallica; Wikidata
+62,Bishop Harold von Hocheim Investiture,Investiture of Bishop Harold,-,作品,提埃坡罗在维尔茨堡宫的壁画。/ Fresco by Giambattista Tiepolo at Würzburg Residenz.,原书 第14章; RKD
+63,Bonfiglioli Collection,Bonfiglioli Collection (Bologna),-,机构,17世纪博洛尼亚重要收藏，是哈斯克尔分析博洛尼亚赞助的核心。/ Major 17th-c. Bolognese collection.,原书 第10章; Getty
+64,Bonisezio Gozzadini,Bonifazio Gozzadini,-,人名,博洛尼亚贵族，哈斯克尔讨论博洛尼亚与罗马赞助博弈时的对象。/ Bolognese aristocrat; cited regarding regional patronage.,原书 p.124; DBI
+65,Brutus killing Arruns,Brutus and Arruns,-,作品,索利梅纳为 Buonaccorsi 宫创作的单幅，体现英雄主义赞助。/ By Solimena for Palazzo Buonaccorsi series.,原书 p.231; RKD
+66,Bust of Francis Bacon,Francis Bacon,-,作品,路易·弗朗索瓦·鲁比利阿克（Roubiliac）创作。/ Bust of Francis Bacon by L.F. Roubiliac.,原书 (British); BM
+67,Bust of Paolo Renier,Paolo Renier,-,作品,安东尼奥·卡诺瓦早期作品，涉及威尼斯末代赞助人。/ Bust of Doge Paolo Renier by Antonio Canova.,原书 第16章; RKD
+68,Bust of Phocion,Phocion,-,作品,"常见于巴洛克至新古典时期的英雄主义肖像订制。/ Bust of Phocion, a common heroic classical subject.",原书 (Neoclassicism)
+69,Camillo Carandini,Camillo Carandini,-,人名,17世纪赞助人或教皇代理，哈斯克尔引用其文献考证订单。/ 17th-c. agent or patron cited for art commissions.,DBI; Google
+70a,Campagna / Girolamo Campagna,Roman Campagna,Q1029864,地点,"[拆分] 罗马郊野，哈斯克尔分析风景画赞助的核心地。/ The Roman countryside, central to landscape studies.",拆分准则; Wikidata
+70b,Campagna / Girolamo Campagna,Girolamo Campagna,Q1347313,人名,[拆分] 17世纪重要雕塑家，哈斯克尔探讨风格演变的桥梁。/ Important sculptor in late 16th/early 17th c.,拆分准则; Getty
+71,Capricci Copiosi di Figure,Capricci di varie figure,Q2882103,著作,"雅克·卡洛（Jacques Callot）的版画系列，哈斯克尔引用。/ Print series by Jacques Callot, cited by Haskell.",IA; Wikidata
+72,Cardinal Mazarin in His Gallery,Cardinal Mazarin in His Gallery,Q110292793,作品,德拉罗什（Delaroche）作品。哈斯克尔以此探讨马扎然的赞助。/ Paul Delaroche's painting of Mazarin's collection.,原书 (Mazarin); RKD
+73,Caricature of Cassiano dal Pozzo,Caricature of Cassiano dal Pozzo,-,作品,可能由 皮埃特罗·达·科尔托纳 创作。展现了鉴赏家的非正式肖像。/ Informal caricature of the great collector Cassiano.,原书 p.124; Google
+74,Carlo Baccinelli,Carlo Baccinelli,-,人名,哈斯克尔引用或描述的博洛尼亚赞助/收藏相关人物。/ Figure in Bolognese patronage/collecting networks.,原书 第10章; DBI
+75,Carlo Camillo II Massimi,Cardinal Carlo Camillo Massimi,Q1041925,人名,17世纪最重要的赞助人之一，普桑和马拉塔的朋友。/ One of the most important 17th-c. patrons; friend of Poussin.,原书 第6章; DBI
+76,Carlo Cordellina,Carlo Cordellina,-,人名,威尼斯赞助人，委托提埃坡罗创作著名的科尔德利纳别墅壁画。/ Venetian patron; commissioned Tiepolo for Villa Cordellina.,原书 第14章; DBI
+77,Carlo Quarismini,Carlo Quarismini,-,人名,哈斯克尔讨论威尼斯及其腹地艺术流动时提及的收藏者。/ Collector mentioned regarding art circulation in Venice.,原书 第11章; DBI
+78,Carro della Notte,Il Carro della Notte (Night Chariot),-,作品,"马切洛·普罗文扎莱或 古尔齐诺 为波格赛家族创作。/ Chariot of Night, fresco for the Borghese or Ludovisi.",原书 第4章; RKD
+79,Caterina Barbarigo,Caterina Barbarigo,-,人名,威尼斯贵妇与赞助人。哈斯克尔在分析威尼斯沙龙赞助时提及。/ Venetian noblewoman and patron in salon culture.,DBI; Google
+80,Ceiling Frescoes (Palazzo Altieri),Palazzo Altieri Ceilings,-,作品,"卡尔洛·马拉塔等人的巅峰之作。/ Ceiling frescoes by Maratta in Palazzo Altieri, Rome.",原书 第6章; RKD
+81,Ceiling Frescoes (Quirinal Palace),Quirinal Palace Ceilings,-,作品,兰弗兰科等人的大型装饰计划。/ Major decoration programs in the Quirinal by Lanfranco.,原书 第5章; RKD
+82,Ceiling fresco (Augustinian Church),St. Augustine in Glory,-,作品,通常指罗马圣奥古斯丁教堂由 兰弗兰科 创作的天顶画。/ Ceiling fresco by Lanfranco for the Augustinians.,原书 第5章; RKD
+83,Ceiling of Palazzo Doria Pamphilj,Palazzo Doria Pamphilj Ceiling,-,作品,彼得罗·达·科尔托纳 的名作。/ Ceiling fresco by Pietro da Cortona in Palazzo Doria.,原书 第7章; RKD
+84,Ceremonies of the Grand Duke,Ceremonies of the Grand Duke,-,活动,哈斯克尔讨论托斯卡纳宫廷赞助与仪式的章节。/ Court ceremonies in Tuscany reflecting patronage power.,原书 第8章
+85,Chapel of St. Lawrence,Cappella di San Lorenzo,-,地点,位于都灵或罗马，哈斯克尔分析特定圣徒赞助。/ Chapel dedicated to St. Lawrence; discussed in Turin/Rome.,原书 (Saints)
+86,Chapel of St. Stanislaus Kostka,Cappella di San Stanislao Kostka,-,地点,罗马圣安德烈奎里纳莱，哈斯克尔讨论耶酥会赞助。/ Located in Sant'Andrea al Quirinale; Jesuit patronage.,原书 第6章; Google
+87,Chapels of Santa Maria Maggiore,Paolina and Sistine Chapels,-,地点,罗马圣母大殿内的竞争性赞助案例。/ Competitive patronage in Santa Maria Maggiore.,原书 p.124
+88,Charles Gordon-Lennox ... Richmond,"Charles Lennox, 3rd Duke of Richmond",Q336494,人名,18世纪英国大收藏家。/ 3rd Duke of Richmond; major 18th-c. British grand tourist.,BM; Wikidata
+89a,Charles I ... / Charles II?,Charles I of England,Q81506,人名,[拆分] 英国国王，全书研究意大利绘画外流的关键。/ King of England; major international collector.,拆分准则; Wikidata
+89b,Charles I ... / Charles II?,Charles II of England,Q122553,人名,[拆分] 英国国王，哈斯克尔讨论品味延续的对象。/ King of England; discussed regarding taste continuity.,拆分准则; Wikidata
+90,Charles-François de Saint-Saulieu,Charles-François de Saint-Saulieu,-,人名,18世纪法国外交官及赞助人。/ 18th-c. French diplomat and patron active in Italy.,Gallica; Google
+91,"Christian Louis I, Duke of Mecklenburg",Christian Ludwig I,Q551871,人名,哈斯克尔讨论北欧王室赞助时的案例。/ Duke of Mecklenburg-Schwerin; courtly patron.,Wikidata; Google
+92,Church of San Sebastiano (Venice),"San Sebastiano, Venice",Q1229047,地点,全书讨论委罗内塞及17世纪延续性赞助的核心地。/ Center for Veronese and 17th-c. Venetian studies.,原书 p.260; Wikidata
+93,Churches of Religious Orders,Patronage of Religious Orders,-,概念,哈斯克尔全书核心：不同修会（耶酥会、方济各会）的品味差异。/ Patronage patterns of different religious orders.,全书核心主题
+94,Cincinnatus Summoned from the Plough,Cincinnatus Called from the Plough,-,作品,提埃坡罗或 皮埃特罗·达·科尔托纳 的名作。/ Heroic subject painted by Tiepolo or Cortona.,原书 (Heroism); RKD
+95,Cincinnatus summoned from the Plough,Cincinnatus Called from the Plough,-,作品,重复项，同上行，体现了不同赞助周期中的版本差异。/ Duplicate; version study in different patronage cycles.,原书 (Heroism); RKD
+96a,Coggio Pittoni,Francesco Pittoni,Q5479532,人名,[定性] 哈斯克尔常提及的“科焦（老）”皮托尼。/ Older generation of the Pittoni family of painters.,原书 p.265; DBI
+96b,Coggio Pittoni,Giambattista Pittoni,Q651139,人名,[延伸] 与上行相关的18世纪名家。/ The famous 18th-c. Venetian master Giambattista Pittoni.,原书 p.265; Getty
+97,Coggio Pittoni (Artist?),Coggio Pittoni,-,人名,指代皮托尼家族中的某位不太确定的早期艺术家成员。/ Refers to a less-certain early member of the Pittoni family.,原书 p.265
+98,Collegio di Siena,"Collegio Tolomei, Siena",-,机构,哈斯克尔分析省级教育机构对艺术品订制的章节。/ Sienese college cited for educational art commissions.,原书 p.231
+99,Congregazione dei Virtuosi al Pantheon,Congregazione dei Virtuosi al Pantheon,Q3686866,机构,罗马古老的艺术同业会。哈斯克尔以此讨论非学院派的赞助社交。/ Ancient artistic brotherhood in Rome; discussed regarding social circles.,原书 p.124; Wikidata
